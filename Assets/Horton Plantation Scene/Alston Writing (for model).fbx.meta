@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: d72ea92ea1a403145b3ec22833788e16
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beardmat
+    second: {fileID: 2100000, guid: 06e384192803cec4eb0f755d13da67b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 5f90486c074f4074ab0ed86514fc33d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 79efce5cb09a6694fb32efc822abdc15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hatmat
+    second: {fileID: 2100000, guid: 2328326ce6e49294e9f8b77f56d97629, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: df9a814e6347dd34cb289f2dc78c39b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 9c76f8f79bef8404d96ca01c2a1f3f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 0e8894c25ca12bc438ee106017a4e866, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Beard_Diffuse
+    second: {fileID: 2800000, guid: 4b3efb9ccb5ac734dbb50c3384aacff1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Beard_Gloss
+    second: {fileID: 2800000, guid: 8e4cc672278b86f429aa54d362f5b729, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Beard_Normal
+    second: {fileID: 2800000, guid: 7ad5b96c3725dc24abb89a7c29091936, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Beard_Opacity
+    second: {fileID: 2800000, guid: 5de5935bd075eca43a29e340cffc752c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Beard_Specular
+    second: {fileID: 2800000, guid: 55b369e19bf666142a47485a84d00224, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Body_Diffuse
+    second: {fileID: 2800000, guid: 44a940628317c324a8c873d199303ec4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Body_Gloss
+    second: {fileID: 2800000, guid: 93ab418cfb7b1d54a890f5479288babc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Body_Normal
+    second: {fileID: 2800000, guid: 80ba8c62fe7b2cf4bb1372851ca3095f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Body_Opacity
+    second: {fileID: 2800000, guid: 522892e6e30a74441a0d52ebae72c16c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Body_Specular
+    second: {fileID: 2800000, guid: e6b61da39d64d434891337408289b232, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 681244cbb39fd8647a1490c9290aa5a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Bottom_Gloss
+    second: {fileID: 2800000, guid: 35bd509cafd866546b9e21db7d3bc4af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Bottom_Normal
+    second: {fileID: 2800000, guid: 93f916673105b5a498216ae57bb86480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Bottom_Opacity
+    second: {fileID: 2800000, guid: fa08438c99456624fa144610e1846645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Bottom_Specular
+    second: {fileID: 2800000, guid: 8237b3c954b263d4fb8da9aedd849d46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Hat_Diffuse
+    second: {fileID: 2800000, guid: 86bfed154d4fb1248a94ec837ae81b50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Hat_Gloss
+    second: {fileID: 2800000, guid: 874f110110c808846b146b77d4b8f327, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Hat_Normal
+    second: {fileID: 2800000, guid: dc6387929fbe73442865c3e32d43bf83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Hat_Opacity
+    second: {fileID: 2800000, guid: 091f9733a8b207246a38e8d06da44d0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Hat_Specular
+    second: {fileID: 2800000, guid: f4dad831dd3cfce42af38cc4dccdbb9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Moustache_Diffuse
+    second: {fileID: 2800000, guid: a1d3a6f631ff36449bd761787c5e58db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Moustache_Gloss
+    second: {fileID: 2800000, guid: aaadd64faae906148afd8b2b9d93761e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Moustache_Normal
+    second: {fileID: 2800000, guid: 4d4fb42459eb9c54dbbb9cfb8f1c5a9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Moustache_Opacity
+    second: {fileID: 2800000, guid: 3c98e40e990cb3645bd8ffbf95d8aa88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Moustache_Specular
+    second: {fileID: 2800000, guid: b93e5bd906db73d4d97de35ae0b894d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 61110ee0494dcc04b9cd82edef65f0fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Shoes_Gloss
+    second: {fileID: 2800000, guid: 9aef6e8643cd1a940bd5fed6da04e72c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Shoes_Normal
+    second: {fileID: 2800000, guid: bb1fdca7f57fc5d43bb30bda64524a5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Shoes_Opacity
+    second: {fileID: 2800000, guid: 4e5e3d9a01ef9514e8ceb4576e92b465, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Shoes_Specular
+    second: {fileID: 2800000, guid: 1e535138b22895c469c24f3ef161d1b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Top_Diffuse
+    second: {fileID: 2800000, guid: 83018d4b26df8c74983f241545c9276e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Top_Gloss
+    second: {fileID: 2800000, guid: 9cd70e5d3085eec48a77cf4675aac1c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Top_Normal
+    second: {fileID: 2800000, guid: c0b66a122d8efae4794e3ae34702abb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Top_Opacity
+    second: {fileID: 2800000, guid: 42aaf435ea6c2844a85f7ebfe73a0fb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alston_Top_Specular
+    second: {fileID: 2800000, guid: 1a19bf48109b64e4990a0659d57ddd67, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

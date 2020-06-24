@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 141f867e70bc18a44ab8fc5e7659f3a9
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Body_Diffuse
+    second: {fileID: 2800000, guid: 8e50a16ffddf2a945aefa804633475c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Body_Gloss
+    second: {fileID: 2800000, guid: aadf08b1fd22db84dab4384b66f4f92f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Body_Normal
+    second: {fileID: 2800000, guid: cbc489494f688b94c94559eb0105ce5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Body_Opacity
+    second: {fileID: 2800000, guid: 226b29b4922d9cd4cba0aa554cf87198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Body_Specular
+    second: {fileID: 2800000, guid: 755bedf3f03a8324f910ee3c713bea3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Bottom_Diffuse
+    second: {fileID: 2800000, guid: f56dd45fcaa794d4e887947c754fdb9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Bottom_Gloss
+    second: {fileID: 2800000, guid: 8627ea614601d9e46ab91b739ca1c022, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Bottom_Normal
+    second: {fileID: 2800000, guid: 1dbc2d8f870d8c748a874a0f1fd184a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Bottom_Opacity
+    second: {fileID: 2800000, guid: c73b44e988cf68c4ba72522ed3d51e55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Bottom_Specular
+    second: {fileID: 2800000, guid: f3336175ee60c754482da28c9119a153, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Shoes_Diffuse
+    second: {fileID: 2800000, guid: e09c9ea8ae3ec9a40a487cace22ae10f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Shoes_Gloss
+    second: {fileID: 2800000, guid: 0748e86d63dc985478ce0ba54438fae1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Shoes_Normal
+    second: {fileID: 2800000, guid: d1254b214f0c03a49b06fc3dd7ad8866, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Shoes_Opacity
+    second: {fileID: 2800000, guid: f2f9950ec9031d24da2f9977b05508ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Shoes_Specular
+    second: {fileID: 2800000, guid: d64c3b9f76af77446baf5e06b383c9ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Top_Diffuse
+    second: {fileID: 2800000, guid: 196e9b458e769ff4d9d96d1eb4f2e923, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Top_Gloss
+    second: {fileID: 2800000, guid: 8d3f30ee22b839a4daa351de8440c7fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Top_Normal
+    second: {fileID: 2800000, guid: 6834480bd97a30042b55e67c4ab53fe5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Top_Opacity
+    second: {fileID: 2800000, guid: 27c9ce03513ff1741b0928a9c04fc94c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horton_1_Top_Specular
+    second: {fileID: 2800000, guid: 6f39530939379d54fa545f509c6e114b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
